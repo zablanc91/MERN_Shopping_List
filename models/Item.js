@@ -1,3 +1,7 @@
+/*
+Item model for the database
+*/
+
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
